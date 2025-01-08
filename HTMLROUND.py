@@ -4,20 +4,7 @@ from selenium.webdriver.common.by import By
 
 # 定義需要刷新的網址列表
 urls = [
-    "https://ithelp.ithome.com.tw/users/20167256/articles",
-    "https://ithelp.ithome.com.tw/articles/10369321",
-    "https://ithelp.ithome.com.tw/articles/10359800",
-    "https://ithelp.ithome.com.tw/articles/10352661",
-    "https://ithelp.ithome.com.tw/articles/10352663",
-    "https://ithelp.ithome.com.tw/articles/10342933",
-    "https://ithelp.ithome.com.tw/articles/10342940",
-    "https://ithelp.ithome.com.tw/articles/10342939",
-    "https://ithelp.ithome.com.tw/articles/10342857",
-    "https://ithelp.ithome.com.tw/articles/10342846",
-    "https://ithelp.ithome.com.tw/articles/10342632",
-    "https://ithelp.ithome.com.tw/articles/10342614",
-    "https://ithelp.ithome.com.tw/articles/10342610",
-    "https://ithelp.ithome.com.tw/articles/10342609"
+    "https://www.google.com.tw/?hl=zh_TW"
 ]
 
 # 設定刷新間隔 (秒)
